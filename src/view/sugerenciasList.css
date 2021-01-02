@@ -1,0 +1,18 @@
+
+.contenedorSugerencia{
+display:flex;
+flex-direction:column;
+
+}
+.sugerencia1{
+  padding:10px;
+
+}
+.sugerencia2{
+  padding:10px;
+
+}
+.sugerencia3{
+  padding:10px;
+
+}

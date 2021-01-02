@@ -1,0 +1,24 @@
+.card{
+width:250px;
+height:500px
+}
+.contenedorCardCancha{
+width:100%;
+background:black
+
+}
+.cancha{
+margin: auto;
+width:500px !important;
+
+}
+
+.item{
+display:flex;
+}
+
+.carrousel{
+background:black;
+width:100%;
+height:700px
+}

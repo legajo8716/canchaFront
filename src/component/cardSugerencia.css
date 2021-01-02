@@ -1,0 +1,30 @@
+.imagen{
+width:240px !important;
+height:150px !important;
+}
+.texto{
+font-size:15px;
+}
+.div{
+}
+
+.contenido{
+display:flex;
+flex-direction:column;
+}
+.contenedor{
+border: 8px solid grey  !important;
+border-radius: 16px !important;
+width:300px !important;
+height: 400px !important;
+background: linear-gradient(to top, black, grey) !important
+
+}
+
+.inscribite{
+height:30px;
+width:100px;
+margin:  auto;
+font-size:16px !important;
+
+}

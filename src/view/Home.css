@@ -1,0 +1,92 @@
+.contenedorCajas{
+display:flex;
+flex-wrap:wrap
+
+
+}
+.caja{
+height:100%;
+width:500px;
+}
+
+.caja1{
+background:rgb(50,0,0,0.1);
+flex:1
+
+
+}
+.caja2{
+display:flex;
+flex-direction:column;
+background:rgb(50,0,0,0.1);
+flex:3;
+
+
+}
+
+.caja3{
+background:rgb(50,0,0,0.1);
+flex:1
+
+
+}
+.head{
+display:flex;
+height:100px;
+width:100%;
+}
+#Fondo-head {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -100;
+}
+.fondoAzul{
+ height:100vh;
+  width: 100%;
+  position: absolute;
+  margin-bottom: auto;
+  z-index: -100;
+}
+
+
+
+.pelota{
+height:30px !important;
+padding:5px;
+
+}
+.im{
+height:100px !important;
+width:125px !important;
+
+}
+.p{
+color:red;
+margin:auto;
+}
+
+
+.footer{
+height:50px;
+width:100%;
+background:red;
+margin-top:auto;
+
+
+}
+.homeContainer{
+display:flex;
+flex-direction:column;
+height:100%;
+background:  top/150% url('../fondoAzul.jpg');
+
+
+
+}
+.canchaList{
+width:100%
+
+}
